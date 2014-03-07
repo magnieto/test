@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HelloWorklightProject">
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/common"/>
+        <property name="context-root" value="HelloWorklightProject"/>
+    </wb-module>
+</project-modules>
